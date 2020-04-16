@@ -801,7 +801,7 @@ msgstr "种子从添加到客户端到现在所经过的时间。"
 
 #: ../../config.rst:474
 msgid "``download_speed``"
-msgstr "``downloadspeed``"
+msgstr "``download_speed``"
 
 #: ../../config.rst:477
 msgid "Download speed."
